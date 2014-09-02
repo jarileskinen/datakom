@@ -13,4 +13,6 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
+baseurl: '/datakom'
+
 exclude: ['vendor', 'Gemfile', 'Gemfile.lock', 'config.ru']
